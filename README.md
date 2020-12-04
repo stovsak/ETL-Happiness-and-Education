@@ -4,7 +4,11 @@ Education Status vs. Happiness –
 
 We will be utilizing data obtained from the following sources to generate comparisons of the world’s population based on their education levels and their overall happiness.
 
-Sources for the data:https://www.kaggle.com/theworldbank/world-bank-intl-education?select=international_educationhttps://www.kaggle.com/unsdsn/world-happiness
+Sources for the data:
+
+https://www.kaggle.com/theworldbank/world-bank-intl-education?select=international_education
+
+https://www.kaggle.com/unsdsn/world-happiness
 
 Transformation needed:
 
