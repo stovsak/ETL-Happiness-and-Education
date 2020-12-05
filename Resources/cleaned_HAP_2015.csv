@@ -1,4 +1,4 @@
-Country Name,Region,Happiness Rank,Happiness Score,Standard Error
+country_name,region,happiness_rank,happiness_score,standard_error
 Afghanistan,Southern Asia,153,3.575,0.03084
 Albania,Central and Eastern Europe,95,4.959,0.05013
 Argentina,Latin America and Caribbean,30,6.574,0.04612

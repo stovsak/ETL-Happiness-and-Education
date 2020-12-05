@@ -1,4 +1,4 @@
-Country Name,Region,Country Code,Indicator Name,Indicator Code,2015
+country_name,region,country_code,indicator_name,indicator_code,ger_value
 Afghanistan,Southern Asia,AFG,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,79.59898000000001
 Albania,Central and Eastern Europe,ALB,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,100.28765
 Argentina,Latin America and Caribbean,ARG,"Gross enrolment ratio, primary and secondary, both sexes (%)",UIS.GER.123,109.14778000000001

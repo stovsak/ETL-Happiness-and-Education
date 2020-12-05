@@ -1,4 +1,4 @@
-Country Name,Region,Country Code,Indicator Name,Indicator Code,2015
+country_name,region,country_code,indicator_name,indicator_code,sle_value
 Afghanistan,Southern Asia,AFG,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,9.35507
 Albania,Central and Eastern Europe,ALB,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,11.97592
 Argentina,Latin America and Caribbean,ARG,"School life expectancy, primary and secondary, both sexes (years)",UIS.SLE.123,13.13616
