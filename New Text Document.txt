@@ -1,0 +1,10 @@
+UIS.GER.123
+Gross enrolment ratio, primary and secondary, both sexes (%)
+
+UIS.SLE.123
+School life expectancy, primary and secondary, both sexes (years)
+
+query url:
+http://api.worldbank.org/v2/country/all/indicator/UIS.GER.123?date=2015&downloadformat=csv
+
+http://api.worldbank.org/v2/country/all/indicator/UIS.SLE.123?date=2015&downloadformat=csv
